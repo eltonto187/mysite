@@ -46,3 +46,6 @@ Session.vim
 *.egg-info
 dist
 build
+
+# my db
+db.sqlite3
