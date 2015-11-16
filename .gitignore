@@ -49,3 +49,4 @@ build
 
 # my db
 db.sqlite3
+venv
