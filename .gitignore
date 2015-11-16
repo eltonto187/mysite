@@ -37,3 +37,12 @@ Temporary Items
 Session.vim
 .netrwhist
 *~
+
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
